@@ -1,9 +1,9 @@
 **Before submitting a pull request,** please make sure the following is done:
 
-- Fork [the repository](https://github.com/gcanti/fp-ts) and create your branch from `master` (\*).
-- Run `npm install` in the repository root.
+- Fork [the repository](https://github.com/fp-ts/schema) and create your branch from `main` (\*).
+- Run `pnpm install` in the repository root.
 - If you've fixed a bug or added code that should be tested, add tests!
-- Ensure the test suite passes (`npm test`).
+- Ensure the test suite passes (`pnpm test`).
 
 **Note**. If you've fixed a bug please link the related issue or, if missing, open an issue before sending a PR.
 
@@ -11,5 +11,3 @@
 
 (\*)
 
-- if you want to send a PR related to `fp-ts@1.x` please create your branch from `1.x`
-- if you want to send a PR related to `fp-ts@2.x` please create your branch from `2.x`
